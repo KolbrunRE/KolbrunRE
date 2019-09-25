@@ -1,0 +1,3 @@
+x = 'abbc'
+x.replace('b','z')
+print(x)
