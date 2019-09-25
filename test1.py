@@ -1,6 +1,6 @@
 def a_list(value):
     my_list = []
-    while value != 'exit1':
+    while value != 'exit1P':
         my_list += value
         value = input("Enter value to be added to list:")
     
